@@ -1,2 +1,10 @@
-# ICRTDACI
-The Conference on Recent Trends in Data Analytics and Computing Intelligence is a prestigious gathering aimed at exploring and discussing the latest advancements, methodologies, and innovations in the fields of data analytics and computing intelligence.
+
+  # Conference Event - 1
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
