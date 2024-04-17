@@ -1,0 +1,105 @@
+.internationalConferenceOn {
+  margin: 0;
+  position: absolute;
+  top: 40px;
+  left: 62px;
+  font-size: inherit;
+  line-height: 50px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  width: 753px;
+  z-index: 1;
+}
+.df49f288e5O1Icon {
+  position: absolute;
+  top: -34px;
+  left: 0;
+  width: 1551px;
+  height: 902px;
+  object-fit: cover;
+}
+.calendarblankIcon {
+  position: absolute;
+  top: 374px;
+  left: 91px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  z-index: 1;
+}
+.df49f288e5O1Parent {
+  position: absolute;
+  top: -160px;
+  left: -29px;
+  width: 1370px;
+  height: 868px;
+}
+.april25262025 {
+  position: absolute;
+  top: 214px;
+  left: 103px;
+  font-size: var(--font-size-5xl);
+  line-height: 32px;
+  text-align: center;
+  z-index: 1;
+}
+.submitPaper {
+  position: relative;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 107px;
+}
+.submitPaperWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-5xl);
+  background-color: var(--primary);
+  position: absolute;
+  top: 270px;
+  left: 62px;
+  border-radius: var(--br-9xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+  z-index: 1;
+}
+.submitPaperWrapper:hover {
+  background-color: var(--color-steelblue-100);
+}
+.internationalConferenceOnReParent {
+  align-self: stretch;
+  height: 447px;
+  position: relative;
+  border-radius: var(--br-5xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--primary);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1000px) {
+  .internationalConferenceOn {
+    font-size: var(--font-size-10xl);
+    line-height: 40px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .internationalConferenceOn {
+    font-size: var(--font-size-3xl);
+    line-height: 30px;
+  }
+  .april25262025 {
+    font-size: var(--font-size-lgi);
+    line-height: 26px;
+  }
+}

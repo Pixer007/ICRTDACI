@@ -1,0 +1,263 @@
+.frameChild {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin: 0 !important;
+  top: -75px;
+  left: 122.4px;
+  border-radius: var(--br-131xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.drFrBenny {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.director {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 69px;
+}
+.directorWrapper,
+.frameContainer {
+  display: flex;
+  align-items: flex-start;
+}
+.directorWrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  font-size: var(--font-size-lg);
+}
+.frameContainer {
+  flex: 0.6832;
+  background-color: var(--color-white);
+  box-shadow: var(--effect);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-99xl-5) var(--padding-57xl-3) var(--padding-39xl-5)
+    var(--padding-57xl-4);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+  min-width: 257px;
+  max-width: 100%;
+}
+.drJobyThomas {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.dean {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 45px;
+}
+.deanWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-55xl);
+  font-size: var(--font-size-lg);
+}
+.jobyThomas1 {
+  position: absolute;
+  top: 20px;
+  left: 31px;
+  width: 93px;
+  height: 130px;
+  object-fit: cover;
+}
+.jobyThomas1Wrapper {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin: 0 !important;
+  top: -75px;
+  right: 122.7px;
+  border-radius: var(--br-131xl);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.drJobyThomasParent,
+.frameGroup {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.drJobyThomasParent {
+  flex: 1;
+  background-color: var(--color-white);
+  box-shadow: var(--effect);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-99xl-5) var(--padding-xl) var(--padding-39xl-5);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-5xs);
+  min-width: 257px;
+}
+.frameGroup {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.drMvinay,
+.honoraryConference {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.drMvinay {
+  margin: 0;
+  width: 143px;
+  font-size: inherit;
+  line-height: 40px;
+  font-family: inherit;
+  display: inline-block;
+}
+.programCoOrdinator {
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 26px;
+}
+.drMvinayParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-5xs);
+}
+.frameItem {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  margin: 0 !important;
+  top: -75px;
+  left: calc(50% - 74.55px);
+  border-radius: var(--br-131xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.frameParent1 {
+  align-self: stretch;
+  flex: 1;
+  background-color: var(--color-white);
+  box-shadow: var(--effect);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-39xl-5);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-77xl);
+  max-width: 100%;
+}
+.frameDiv {
+  flex: 1;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.frameDiv,
+.frameWrapper,
+.honoraryConferenceChairParent {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.honoraryConferenceChairParent {
+  width: 395.7px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-96xl);
+}
+.frameWrapper {
+  height: 394px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+}
+.frameParent {
+  width: 815.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  max-width: 100%;
+}
+.final120424Inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 725px) {
+  .drJobyThomasParent,
+  .frameContainer {
+    flex: 1;
+  }
+  .frameGroup {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 450px) {
+  .drFrBenny {
+    font-size: var(--font-size-lgi);
+    line-height: 32px;
+  }
+  .frameContainer {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .drJobyThomas {
+    font-size: var(--font-size-lgi);
+    line-height: 32px;
+  }
+  .honoraryConference {
+    font-size: var(--font-size-base);
+    line-height: 22px;
+  }
+  .drMvinay {
+    font-size: var(--font-size-lgi);
+    line-height: 32px;
+  }
+  .honoraryConferenceChairParent {
+    gap: var(--gap-38xl);
+  }
+  .frameParent {
+    gap: var(--gap-base);
+  }
+}
